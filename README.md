@@ -1,5 +1,5 @@
 ### Hi there 
- My name is Lovzar06 🙋‍♂️
+ My name is Magomed 🙋‍♂️
 i am fullstack web developer.
 <!--
 **Lovzar06/Lovzar06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
